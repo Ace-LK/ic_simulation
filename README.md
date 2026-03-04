@@ -35,7 +35,7 @@
 ### 运行模拟器
 - python app.py
 ### 项目结构
-IndustrialSimulator/
+IC_Simulator/
 ├── app.py # 主应用入口
 ├── simple_simulators.py # 模拟器核心逻辑
 ├── requirements.txt # Python依赖
